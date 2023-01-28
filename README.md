@@ -1,2 +1,2 @@
-# in-cioJavaScript
+# inícioJavaScript
 Começo dos meus projetos em JavaScript
